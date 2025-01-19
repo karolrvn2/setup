@@ -10,7 +10,11 @@ winget install -e --id TorProject.TorBrowser
 winget install -e --id ShareX.ShareX
 
 winget install rsync
+
+# Dev:
 winget install ollama
+winget install cmake
+
 winget install -e --id Opera.OperaGX
 
 # winget install nvm nodejs npm
